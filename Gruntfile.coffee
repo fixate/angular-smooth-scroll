@@ -11,7 +11,7 @@ module.exports = (grunt) ->
 	grunt.initConfig
 		watch:
 			coffee:
-				files: 'dist/angular-smooth-scroll.coffee'
+				files: 'src/angular-smooth-scroll.coffee'
 				tasks: ['coffee:compile']
 
 		coffee:
