@@ -1,0 +1,29 @@
+{
+  "name": "angular-smooth-scroll",
+  "version": "0.0.0",
+  "description": "Smooth scroll to elements on a page",
+  "main": "angular-smooth-scroll.js",
+  "scripts": {
+    "test": "say 'jimmy janger jingle pants'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fixate/angular-smooth-scroll.git"
+  },
+  "keywords": [
+    "angular",
+    "smoothscroll"
+  ],
+  "author": "Larry Botha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fixate/angular-smooth-scroll/issues"
+  },
+  "homepage": "https://github.com/fixate/angular-smooth-scroll",
+  "devDependencies": {
+    "grunt-bump": "0.0.15",
+    "grunt-contrib-coffee": "^0.11.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

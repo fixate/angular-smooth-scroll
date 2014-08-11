@@ -1,0 +1,23 @@
+{
+  "name": "angular-smooth-scroll",
+  "version": "0.0.0",
+  "homepage": "https://github.com/fixate/angular-smooth-scroll",
+  "authors": [
+    "Larry Botha <larry@fixate.it>"
+  ],
+  "description": "Smooth scroll to elements on a page",
+  "main": "dist/angular-smooth-scroll.js",
+  "keywords": [
+    "angular",
+    "smoothscroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+		"demo"
+  ]
+}
