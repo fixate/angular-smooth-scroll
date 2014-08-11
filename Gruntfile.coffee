@@ -23,6 +23,10 @@ module.exports = (grunt) ->
 				dest: './dist',
 				ext: '.js'
 
+		uglify:
+			target:
+				files: 'dist/angular-smooth-scroll.min.js': ['dist/angular-smooth-scroll.js']
+
 		bump:
 			options:
 				files: [
