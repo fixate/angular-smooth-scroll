@@ -19,7 +19,7 @@ module.exports = (grunt) ->
 				expand: true,
 				flatten: true,
 				cwd: "#{__dirname}/",
-				src: ['dist/angular-smooth-scroll.coffee'],
+				src: ['src/angular-smooth-scroll.coffee'],
 				dest: './dist',
 				ext: '.js'
 
