@@ -1,8 +1,6 @@
 # Angular Smooth Scroll
 
-Smooth scroll to frag IDs on a page.
-
-Vanilla JS and jQuery directives.
+Smooth scroll to frag IDs on a page. Vanilla JS and jQuery directives available.
 
 ## Installation
 Bower:
