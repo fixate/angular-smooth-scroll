@@ -2,6 +2,10 @@
 
 Smooth scroll to frag IDs on a page. Vanilla JS and jQuery directives available. Visit https://github.com/durated/angular-scroll for a fully featured Angular scroll directive.
 
+Original work here: https://github.com/arnaudbreton/angular-smoothscroll
+
+[DEMO](http://fixate.github.io/angular-smooth-scroll/demo/)
+
 ## Installation
 Bower:
 
