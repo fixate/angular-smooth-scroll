@@ -29,7 +29,7 @@ angular.module('myApp', ['smoothScroll']);
 <a href="#my-id" smooth-scroll offset="100">scroll with offset</a>
 ```
 
-### Without jQuery
+### With jQuery
 
 ```html
 <a href="#my-id" smooth-scroll>scroll to #my-id</a>
