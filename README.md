@@ -39,10 +39,6 @@ angular.module('myApp', ['smoothScroll']);
 <a href="#my-id" smooth-scroll offset="100">scroll with offset</a>
 ```
 
-## Build
-npm install
-grunt build
-
 
 ## License
 
