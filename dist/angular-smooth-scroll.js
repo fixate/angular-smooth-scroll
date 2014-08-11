@@ -1,5 +1,5 @@
 (function() {
-  angular.module('angularSmoothScroll', []).directive('smoothScroll', [
+  angular.module('smoothScroll', []).directive('smoothScroll', [
     '$log', '$timeout', '$window', function($log, $timeout, $window) {
       var currentYPosition, elemYPosition, smoothScroll;
       currentYPosition = function() {
