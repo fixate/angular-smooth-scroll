@@ -6,7 +6,7 @@ Smooth scroll to frag IDs on a page. Vanilla JS and jQuery directives available.
 Bower:
 
 ```
-bower install angular-smooth-scroll
+bower install https://github.com/fixate/angular-smooth-scroll.git#master
 ```
 
 ## Usage
